@@ -9,8 +9,8 @@
 My GitHub stats are pretty abysmal, but here there are anyway. 
 
 <p align="center">
-  <img src="https://github-stats.billyjbryant.com/api?username=billyjbryant&rank_icon=github&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's GitHub Stats" />
-  <img src="https://github-stats.billyjbryant.com/api/top-langs/?username=anuraghazra&layout=donut&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's Top Languages" />
+  <img height="200" align="center" src="https://github-stats.billyjbryant.com/api?username=billyjbryant&rank_icon=github&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's GitHub Stats" />
+  <img height="200" align="center" src="https://github-stats.billyjbryant.com/api/top-langs/?username=anuraghazra&layout=donut&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's Top Languages" />
 </p>
 
 ## How to find me

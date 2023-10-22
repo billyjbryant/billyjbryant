@@ -1,8 +1,14 @@
-# Hi, I'm Billy!
+# 👋 Hi, I'm Billy!
 
-## About Me!
+## 🧔 About Me!
 
-> I'm a self proclaimed foodie, I love cooking in my free time and trying out new recipes. My Instagram is a mixture of Food, Tech, Cars and Memes! My GitHub commits will lead you to believe I do nothing, maybe I should work on that. Most of my contributions are in private repos or published to internal repos at work. I'm part of a small start-up, called TotiLight, that builds light based art installations for galleries and public displays, its amazing and challenging work that I enjoy! Until 2018, I had lived in Louisville, KY for 11 years, prior to that I lived in Birmingham, AL. I moved to Seattle, WA in September of 2018 to take on an exciting new role with [AWS](https://aws.amazon.com/), but I recently took on a new opportunity with [Mapbox](https://www.mapbox.com/). I'm married to the love of my life, Sonya; together, we have two cats, who despite our best efforts are absolutely our babies. I'm always willing to share knowledge and dying to learn something new every day. If you want to reach out, please do, I'm pretty much an open book, ask me anything!
+> Hello there! I'm a techie with a serious love for food and innovation. You'll find a blend of tech, food, cars, and memes if you scroll through my Instagram. My GitHub may look quiet, but that's because my contributions are mostly in the shadows—private and internal repos, that is.
+>
+> Born and raised in Birmingham, AL, I cut my teeth and launched my career in Louisville, KY before heading west to Seattle in 2018. I initially joined the ranks at [AWS](https://aws.amazon.com/) and have recently shifted gears to take on a new role at [Mapbox](https://www.mapbox.com/).
+>
+> Beyond the 9-to-5, I'm a co-founder at [TotiLight](https://totilight.io/), a startup that crafts light-based art installations. It's as cool as it sounds, trust me.
+>
+> In 2022, I got married to the love of my life, Sonya. We're also proud parents to two cats (that have us wrapped around their little paws), and five bustling aquariums stocked with an amazing assortment of freshwater fish. Always up for sharing insights and eternally hungry to learn, feel free to reach out—I'm an open book.
 
 ## 📈 My GitHub Stats
 
@@ -13,7 +19,7 @@ My GitHub stats are pretty abysmal, but here there are anyway.
   <img height="200" width="350" src="https://github-stats.billyjbryant.com/api/top-langs/?username=anuraghazra&layout=donut&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's Top Languages" />
 </p>
 
-## How to find me
+## 🔗 How to find me
 
 <p align="center">
   <table align="center" border="0" style="border-collapse: collapse; border: 0;">

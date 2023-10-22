@@ -12,12 +12,18 @@ My GitHub stats are pretty abysmal, but here there are anyway.
 
 ## How to find me
 
-<a href="https://discord.gg/Av4QXY5Zp6">![Static Badge](https://img.shields.io/badge/Discord-Chat%20with%20me?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=000000&link=https%3A%2F%2Fdiscord.gg%2FAv4QXY5Zp6)</a>
-<a href="https://defcon.social/@billyjbryant" rel="me">![Static Badge](https://img.shields.io/badge/Mastodon-Follow%20Me?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=%236364FF&color=000000)</a>
+<a href="https://www.linkedin.com/in/billyjbryant/" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-Follow?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=000000)</a>
+<a href="https://discord.gg/Av4QXY5Zp6" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/Discord-Chat%20with%20me?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=000000)</a>
+<a href="https://defcon.social/@billyjbryant" rel="me noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/Mastodon-Follow%20Me?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=%236364FF&color=000000)</a>
+<a href="https://instagram.com/billyjbryant" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23E4405F&color=000000)</a>
+<a href="https://tiktok.com/@billyjbryant" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/TikTok-Follow?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=%23397684&color=000000)</a>
+<a href="https://www.youtube.com/@billyjbryant" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/YouTube-Follow?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23FF0000&color=000000)</a>
+<a href="https://twitch.tv/billyjbryant" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/Twitch-Follow?style=for-the-badge&logo=twitch&logoColor=white&labelColor=%239146FF&color=000000)</a>
+<a href="https://linktr.ee/BillyJBryant?subscribe" rel="noreferrer" target="_blank">![Static Badge](https://img.shields.io/badge/LinkTree-Follow?style=for-the-badge&logo=linktree&logoColor=white&labelColor=%2343E55E&color=000000)</a>
 
 ---
 
 <p align="center"> 
-  <ins>Visitor Count</ins><br>
+  <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/BillyJBryant/count.svg" />
 </p>

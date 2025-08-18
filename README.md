@@ -32,8 +32,3 @@ My GitHub stats are pretty abysmal, but here there are anyway.
 
 
 ---
-
-<p align="center"> 
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/BillyJBryant/count.svg" />
-</p>

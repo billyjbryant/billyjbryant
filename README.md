@@ -8,16 +8,7 @@
 >
 > Beyond the 9-to-5, I'm a co-founder at [TotiLight](https://totilight.io/), a startup that crafts light-based art installations. It's as cool as it sounds, trust me.
 >
-> In 2022, I got married to the love of my life, Sonya. We're also proud parents to two cats (that have us wrapped around their little paws), and five bustling aquariums stocked with an amazing assortment of freshwater fish. Always up for sharing insights and eternally hungry to learn, feel free to reach out—I'm an open book.
-
-## 📈 My GitHub Stats
-
-My GitHub stats are pretty abysmal, but here there are anyway. 
-
-<p align="center">
-  <img height="200" width="450" src="https://github-stats.billyjbryant.com/api?username=billyjbryant&rank_icon=github&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's GitHub Stats" />
-  <img height="200" width="350" src="https://github-stats.billyjbryant.com/api/top-langs/?username=anuraghazra&layout=donut&theme=gotham&hide_border=true&bg_color=00000000&hide_title=true" alt="Billy's Top Languages" />
-</p>
+> In 2022, I married the love of my life, Sonya. We're also proud parents to two cats (that have us wrapped around their little paws), and five bustling aquariums stocked with an amazing assortment of freshwater fish. Always up for sharing insights and eternally hungry to learn, feel free to reach out—I'm an open book.
 
 ## 🔗 How to find me
 
